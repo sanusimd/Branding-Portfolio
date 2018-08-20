@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "top-section.css";
+@import "services.css";
+@import "portfolio.css";
+
+body{
+    background: #eeeeee;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
